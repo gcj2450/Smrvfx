@@ -269,7 +269,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m_ExecuteInEditor: 1
-  m_Bindings: []
+  m_Bindings:
+  - {fileID: 196297495}
   m_VisualEffect: {fileID: 196297500}
 --- !u!73398921 &196297499
 VFXRenderer:
@@ -549,7 +550,6 @@ GameObject:
   m_Component:
   - component: {fileID: 806678948}
   - component: {fileID: 806678947}
-  - component: {fileID: 806678949}
   - component: {fileID: 806678950}
   m_Layer: 0
   m_Name: Directional Light
@@ -557,7 +557,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!108 &806678947
 Light:
   m_ObjectHideFlags: 0
@@ -635,18 +635,6 @@ Transform:
   m_Father: {fileID: 0}
   m_RootOrder: 1
   m_LocalEulerAnglesHint: {x: 50, y: -159.68, z: 0}
---- !u!114 &806678949
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 806678946}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 7a68c43fe1f2a47cfa234b5eeaa98012, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
 --- !u!114 &806678950
 MonoBehaviour:
   m_ObjectHideFlags: 0
