@@ -175,6 +175,18 @@ MonoBehaviour:
       is make particle can be seen when the \nparticle velocity is zero"
     theme: Classic
     textSize: Small
+  - title: Title
+    position:
+      serializedVersion: 2
+      x: -1230.388
+      y: -107.98209
+      width: 100
+      height: 100
+    contents: 'Use This sample node to sample color
+
+'
+    theme: Classic
+    textSize: Small
   categories: []
   uiBounds:
     serializedVersion: 2
@@ -810,7 +822,7 @@ MonoBehaviour:
   m_Parent: {fileID: 114780028408030698}
   m_Children: []
   m_UIPosition: {x: 0, y: 2}
-  m_UICollapsed: 0
+  m_UICollapsed: 1
   m_UISuperCollapsed: 0
   m_InputSlots:
   - {fileID: 8926484042661614586}
@@ -9094,7 +9106,7 @@ MonoBehaviour:
   m_Parent: {fileID: 114780028408030698}
   m_Children: []
   m_UIPosition: {x: 0, y: 0}
-  m_UICollapsed: 0
+  m_UICollapsed: 1
   m_UISuperCollapsed: 0
   m_InputSlots:
   - {fileID: 8926484042661615224}
