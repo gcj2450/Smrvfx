@@ -4821,8 +4821,8 @@ MonoBehaviour:
         PublicKeyToken=b77a5c561934e089
   m_Direction: 1
   m_LinkedSlots:
-  - {fileID: 8926484042661614971}
   - {fileID: 8926484042661615135}
+  - {fileID: 8926484042661614971}
 --- !u!114 &8926484042661614997
 MonoBehaviour:
   m_ObjectHideFlags: 0
