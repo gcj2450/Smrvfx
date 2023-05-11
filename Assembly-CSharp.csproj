@@ -69,14 +69,14 @@
     <Compile Include="Assets\MeshBaker\Runtime\MeshBinder.cs" />
     <Compile Include="Assets\MeshBaker\Runtime\Internal\CombinedMesh.cs" />
     <Compile Include="Assets\LatentMotion\Scripts\Audio\ISpectrumProvider.cs" />
+    <Compile Include="Assets\vfx-uniform-mesh-sampling\Script\VFXMeshBakingHelper.cs" />
+    <Compile Include="Assets\vfx-uniform-mesh-sampling\Script\UniformBakerCustomOrder.cs" />
     <Compile Include="Assets\MeshBaker\Runtime\MeshBakerProperties.cs" />
     <Compile Include="Assets\LatentMotion\Scripts\flatSpectrum.cs" />
+    <Compile Include="Assets\vfx-uniform-mesh-sampling\Script\UniformBaker.cs" />
     <Compile Include="Assets\MeshBaker\Runtime\Internal\Utility.cs" />
     <Compile Include="Assets\LatentMotion\Scripts\Audio\BasicSpectrumProvider.cs" />
     <Compile Include="Assets\LatentMotion\Scripts\Audio\SpectrumBase.cs" />
-    <Compile Include="Assets\vfx-uniform-mesh-sampling\Script\UniformBakerCustomOrder.cs" />
-    <Compile Include="Assets\vfx-uniform-mesh-sampling\Script\UniformBaker.cs" />
-    <Compile Include="Assets\vfx-uniform-mesh-sampling\Script\VFXMeshBakingHelper.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Assets\SMR_Sample\Credits.txt" />
