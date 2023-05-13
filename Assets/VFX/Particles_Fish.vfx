@@ -2360,7 +2360,7 @@ MonoBehaviour:
   m_UISuperCollapsed: 0
   m_InputSlots: []
   m_OutputSlots: []
-  m_Disabled: 0
+  m_Disabled: 1
   mode: 6
   axes: 4
 --- !u!114 &8926484042661614687
