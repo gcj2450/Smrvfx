@@ -338,9 +338,24 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 7838479416382442254, guid: c5b6c8b29f2c6da49a349efcc6270480,
         type: 3}
+      propertyPath: m_PropertySheet.m_NamedObject.m_Array.Array.size
+      value: 5
+      objectReference: {fileID: 0}
+    - target: {fileID: 7838479416382442254, guid: c5b6c8b29f2c6da49a349efcc6270480,
+        type: 3}
       propertyPath: m_PropertySheet.m_Float.m_Array.Array.data[1].m_Name
       value: LerpPercent
       objectReference: {fileID: 0}
+    - target: {fileID: 7838479416382442254, guid: c5b6c8b29f2c6da49a349efcc6270480,
+        type: 3}
+      propertyPath: m_PropertySheet.m_NamedObject.m_Array.Array.data[4].m_Name
+      value: TargetTexture
+      objectReference: {fileID: 0}
+    - target: {fileID: 7838479416382442254, guid: c5b6c8b29f2c6da49a349efcc6270480,
+        type: 3}
+      propertyPath: m_PropertySheet.m_NamedObject.m_Array.Array.data[4].m_Value
+      value: 
+      objectReference: {fileID: 2800000, guid: 276d9e395ae18fe40a9b4988549f2349, type: 3}
     - target: {fileID: 7838479417249453506, guid: c5b6c8b29f2c6da49a349efcc6270480,
         type: 3}
       propertyPath: m_IsActive
@@ -373,9 +388,24 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 7838479417249453517, guid: c5b6c8b29f2c6da49a349efcc6270480,
         type: 3}
+      propertyPath: m_PropertySheet.m_NamedObject.m_Array.Array.size
+      value: 5
+      objectReference: {fileID: 0}
+    - target: {fileID: 7838479417249453517, guid: c5b6c8b29f2c6da49a349efcc6270480,
+        type: 3}
       propertyPath: m_PropertySheet.m_Float.m_Array.Array.data[1].m_Name
       value: LerpPercent
       objectReference: {fileID: 0}
+    - target: {fileID: 7838479417249453517, guid: c5b6c8b29f2c6da49a349efcc6270480,
+        type: 3}
+      propertyPath: m_PropertySheet.m_NamedObject.m_Array.Array.data[4].m_Name
+      value: TargetTexture
+      objectReference: {fileID: 0}
+    - target: {fileID: 7838479417249453517, guid: c5b6c8b29f2c6da49a349efcc6270480,
+        type: 3}
+      propertyPath: m_PropertySheet.m_NamedObject.m_Array.Array.data[4].m_Value
+      value: 
+      objectReference: {fileID: 2800000, guid: 5b9630065a4a4ab4583d503f68b89d92, type: 3}
     - target: {fileID: 8486169292741394150, guid: c5b6c8b29f2c6da49a349efcc6270480,
         type: 3}
       propertyPath: m_IsActive
